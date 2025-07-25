@@ -92,6 +92,10 @@ How to Run:
 3. Import cleaned data into Power BI and connect tables.
 4. Build and explore the dashboard using Power BI filters and visuals.
 
+Dataset Link:
+-------------
+https://topvarsity.in/ola-data-analyst-project/
+
 Outcome:
 --------
 This project demonstrates your capability in handling a real-world business analytics workflow—transforming raw transactional data into actionable insights using industry-standard tools.
