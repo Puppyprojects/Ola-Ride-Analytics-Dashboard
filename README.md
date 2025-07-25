@@ -100,7 +100,11 @@ Outcome:
 --------
 This project demonstrates your capability in handling a real-world business analytics workflow—transforming raw transactional data into actionable insights using industry-standard tools.
 
+CREDITS:
+--------
+https://www.youtube.com/@TopVarSity
+
 Author:
 -------
 Shreya Raj
-Data Analyst | SQL | Excel | Power BI
+| Data Analyst | SQL | Excel | Power BI
